@@ -46,7 +46,7 @@
 <a href = "https://www.linkedin.com/in/bh-yogendra/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/yogendra_sbhofficial/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://twitter.com/bh_yogendra"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://facebook.com/yogendra.kumar.771"><img src="https://https://https://images.app.goo.gl/tyGZSg5hMVaf5sGg6/fluent/48/000000/faebook.png"/></a>
+<a href = "https://facebook.com/yogendra.kumar.771"><img src="https://https://https://img.icons8.com/fluent/48/0000000/faebook.png"/></a>
 
 </p>
 
